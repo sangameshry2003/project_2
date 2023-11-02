@@ -9,5 +9,4 @@ B = 2
 
 SUM_RESULT = A + B
 
-print(SUM_RESULT)
-print('sangamesh')
+print(SUM_RESULT')
